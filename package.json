@@ -172,7 +172,7 @@
   },
   "dependencies": {
     "@types/katex": "^0.16.0",
-    "yjs": "^13.5.42"
+    "yjs": "^13.6.1"
   },
   "size-limit": [
     {
